@@ -1,0 +1,24 @@
+{
+  "name": "task-management-system",
+  "version": "1.0.0",
+  "description": "Task Management System - Project in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bianca-Lucas/task-management-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bianca-Lucas/task-management-system/issues"
+  },
+  "homepage": "https://github.com/Bianca-Lucas/task-management-system#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
