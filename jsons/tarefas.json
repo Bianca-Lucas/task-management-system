@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Arrumar a Cama",
+        "descricao": "Deixar a cama toda arrumada, com todos os seus acessórios em ordem.",
+        "concluída": true
+    },
+    {
+        "id": 2,
+        "titulo": "Tomar Banho",
+        "descricao": "Tomar banho para o higiene pessoal estar em dia!",
+        "concluída": true
+    },
+    {
+        "id": 3,
+        "titulo": "Fazer a refeição da manhã",
+        "descricao": "De acordo com a dieta sugerida!",
+        "concluída": false
+    },
+    {
+        "id": 4,
+        "titulo": "Fazer as tarefas atrasadas",
+        "descricao": "Colocar todas as tarefas em dia!",
+        "concluída": false
+    }
+]
